@@ -1,23 +1,22 @@
 {
-  "name": "ESG",
-  "version": "1.0.0",
-  "description": "about esg",
-  "main": "index.js",
-  "repository": "https://github.com/faystart/esg",
-  "author": "faydao",
+  "name": "theme-docs",
+  "version": "1.13.1",
+  "private": true,
+  "description": "Docs for vuepress-theme-hope",
   "license": "MIT",
-  "devDependencies": {
-    "@vuepress/plugin-nprogress": "^1.7.1",
-    "vuepress": "^1.7.1",
-    "vuepress-theme-vdoing": "^1.6.0"
+  "author": {
+    "name": "Mr.Hope",
+    "email": "zhangbowang1998@gmail.com",
+    "url": "https://mrhope.site"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "docs:build": "vuepress build src",
+    "docs:clean-serve": "vuepress dev src --no-cache",
+    "docs:dev": "vuepress dev src"
   },
-  "dependencies": {
-    "moment": "^2.29.1"
+  "devDependencies": {
+    "axios": "0.21.1",
+    "vuepress": "^1.8.2",
+    "vuepress-theme-hope": "1.13.1"
   }
 }
