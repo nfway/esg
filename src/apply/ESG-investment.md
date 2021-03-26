@@ -16,7 +16,7 @@ ESG的发展可追溯至上世纪70年代，发达国家开始兴起绿色消费
 
 
 
-![MorningStar-ESG-component](./assests/MorningStar-ESG-component.png)
+![MorningStar-ESG-component](./assets/MorningStar-ESG-component.png)
 
 （资料来源：[MorningStar晨星公众号文章:美国共同基金的ESG投资实践：标准、业绩及策略 ](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ)）
 
@@ -72,11 +72,11 @@ TCFD主要面向投资方、贷款方和保险公司等金融机构和非金融�
 - 2017年6月，TCFD发布《[气候相关财务信息披露工作组建议](https://www.fsb-tcfd.org/publications/final-recommendations-report/)》（Recommendations of the Task Force on Climate-related Financial Disclosures，[中文版](/apply/TCFD-Report-CHINESE-Version-FINAL-TCFD-Report-062817-Translation-20171119.docx ':ignore')）最终报告以及特定行业补充指南，将气候变化纳入公司治理并对11项与气候相关的金融风险信息披露提出意见。
 - 意见涵盖治理、战略、风险管理、指标和目标四大主题，分别对企业在识别气候风险与机遇、评估气候风险和机遇的指标与目标、预估风险与机遇对组织战略和财务计划的实际与潜在影响、治理气候相关风险的过程中信息披露给出建议，并强调通过审计和风险委员会加强对气候风险和机遇的监督，强化可持续发展、气候治理、财务合规等部门之间的合作。
 
-![TCFD-suggestion-1](./assests/TCFD-suggestion-1.png)
+![TCFD-suggestion-1](./assets/TCFD-suggestion-1.png)
 
-![TCFD-suggestion-2](./assests/TCFD-suggestion-2.png)
+![TCFD-suggestion-2](./assets/TCFD-suggestion-2.png)
 
-![TCFD-suggestion-3](./assests/TCFD-suggestion-3.png)
+![TCFD-suggestion-3](./assets/TCFD-suggestion-3.png)
 
 **央行与监管机构绿色金融合作网络（NGFS）**
 
@@ -111,7 +111,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 - 对ESG指标中评价负面的公司，如出现争议性，有违社会公德甚至违反法规等行为的公司；
 - ESG指标预警体系并非一朝一夕的事，因此要进行负面剔除，应从该公司的历史问题进行追溯。如长生生物（002680.SZ）在2018年7月疫苗质量问题爆出后，终于2019年11月27日被摘牌退市。然而在2017年11月，长春长生的25.26万支百白破联合疫苗被检出不符合国家标准规定，还有类似涉及腐败贿赂、环境违法等的报道。
 
-![selected](./assests/selected.png)
+![selected](./assets/selected.png)
 
 资料来源：Schroders, 方正证券报告
 
@@ -153,11 +153,11 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 ## 美国ESG投资实践
 
-根据评级机构晨星（MorningStar）的统计([来源](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ))（[备份](./assests/USA-ESG-practices.html) ）：
+根据评级机构晨星（MorningStar）的统计([来源](https://mp.weixin.qq.com/s/8MiXTFoa9Xju91h5QxW6TQ))（[备份](./assets/USA-ESG-practices.html) ）：
 
 > ESG投资在近年来发展迅速，现已成为投资界最炙手可热的议题。2019年美国ESG基金的资金净流入超过200亿美元，较2018年的50亿美元出现了大幅提升。随着市场对ESG关注度的提升，Vanguard、PIMCO及Fidelity等各大基金公司纷纷加入ESG投资的行列，ESG的投资策略也开始日趋成熟。本文将以美国ESG基金为例，介绍当前国际上主流的几种ESG投资策略。
 
-![](./assests/MorningStar-Static-On-USA-ESG-2019.png)
+![](./assets/MorningStar-Static-On-USA-ESG-2019.png)
 
 
 
@@ -165,7 +165,7 @@ NGFS（The Network of Central Banks and Supervisors for Greening the Financial S
 
 
 
-![jh](./assests/jh.png)
+![jh](./assets/jh.png)
 
 ### Pax World
 

@@ -146,7 +146,7 @@ There   are   three   available   target-setting   methods:   absolute   emissio
 2. an emissions scenario; and 排放情景，以及 
 3. an allocation approach (convergence or contraction). 分配方法
 
-![](./assests/SBTI.png)
+![](./assets/SBTI.png)
 
 ### 制定的方法：
 
@@ -290,5 +290,5 @@ Example of targets using other formulations set:
 
 **总结**
 
-![SBTI2](./assests/SBTI2.png)
+![SBTI2](./assets/SBTI2.png)
 

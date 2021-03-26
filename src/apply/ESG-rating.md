@@ -244,7 +244,7 @@ MSCI ESG评级关注37项ESG关键议题，涉及污染和排放、人力资本�
 - 抓取公开信息
 - 13个ESG二级指标，三级指标包括52个通用标与75个行业指标
 
-![syntaogf-index](./assests/syntaogf-index.png)
+![syntaogf-index](./assets/syntaogf-index.png)
 
 ## 汤森路透（Refinitiv）
 
@@ -252,7 +252,7 @@ MSCI ESG评级关注37项ESG关键议题，涉及污染和排放、人力资本�
 
 其中，对于ESG议题的定义非常值得参考。
 
-![refinitiv-materiality-matrix](./assests/refinitiv-materiality-matrix.png)
+![refinitiv-materiality-matrix](./assets/refinitiv-materiality-matrix.png)
 
 ## 更多
 
@@ -283,7 +283,7 @@ EcoVadis按照ISO26000社会责任指南评估供应商的表现，得出一系�
 >
 > Sustainalytics' ESG Risk Ratings combine the concepts of management and exposure to arrive at an assessment of ESG risk that is comparable across all industries. With the risk assessments being absolute rather than relative to a group of peers, investors have a clear lens into a company's performance relative to any other company in any subindustry or region.
 
-![sustainalytics](./assests/sustainalytics.png)
+![sustainalytics](./assets/sustainalytics.png)
 
 ### Fitch Ratings (惠譽國際)
 
