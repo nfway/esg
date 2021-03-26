@@ -37,7 +37,7 @@ module.exports = config({
 
 
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/esg.png",
     //hostname: "https://vuepress-theme-hope.github.io",
 
     //author: "Mr.Hope",
@@ -64,10 +64,11 @@ module.exports = config({
 	
     activeHeaderLinks: true, // 默认值：true
 	smoothScroll: true,	
+	pageInfo: false,
 	
     footer: {
       display: true,
-      copyright: "MIT Licensed | Copyright © 2019-present Mr.Hope",
+      copyright: " Copyright © 2019-present Zhou Sanfeng",
     },
 
     //comment: {
