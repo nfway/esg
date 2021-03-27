@@ -54,6 +54,7 @@ module.exports = config({
 	visitor: false,
 	breadcrumb:true,
 	editLinks:false,
+	feed:false,
 
     //algolia: {
     //  apiKey: "6b0dce9b8ac6778738e26c56def7eb76",
