@@ -55,7 +55,7 @@ module.exports = config({
 	breadcrumb:true,
 	editLinks:false,
 	feed:false,
-	pwa.cacheHTML:false,
+	
 
     //algolia: {
     //  apiKey: "6b0dce9b8ac6778738e26c56def7eb76",
@@ -95,7 +95,10 @@ module.exports = config({
     },
 
     pwa: {
-      favicon: "/favicon.ico",
+      cacheHTML:false,
+	  cachePic:false,
+	  maxPicSize:1024,
+	  favicon: "/favicon.ico",
       themeColor: "#46bd87",
       cachePic: true,
       apple: {
@@ -131,65 +134,7 @@ module.exports = config({
             type: "image/png",
           },
         ],
-        shortcuts: [
-          {
-            name: "Guide",
-            short_name: "Guide",
-            url: "/guide/",
-            icons: [
-              {
-                src: "/assets/icon/guide-maskable.png",
-                sizes: "192x192",
-                purpose: "maskable",
-                type: "image/png",
-              },
-              {
-                src: "/assets/icon/guide-monochrome.png",
-                sizes: "192x192",
-                purpose: "monochrome",
-                type: "image/png",
-              },
-            ],
-          },
-          {
-            name: "Config",
-            short_name: "Config",
-            url: "/config/",
-            icons: [
-              {
-                src: "/assets/icon/config-maskable.png",
-                sizes: "192x192",
-                purpose: "maskable",
-                type: "image/png",
-              },
-              {
-                src: "/assets/icon/config-monochrome.png",
-                sizes: "192x192",
-                purpose: "monochrome",
-                type: "image/png",
-              },
-            ],
-          },
-          {
-            name: "Basic",
-            short_name: "Basic",
-            url: "/basic/",
-            icons: [
-              {
-                src: "/assets/icon/basic-maskable.png",
-                sizes: "192x192",
-                purpose: "maskable",
-                type: "image/png",
-              },
-              {
-                src: "/assets/icon/basic-monochrome.png",
-                sizes: "192x192",
-                purpose: "monochrome",
-                type: "image/png",
-              },
-            ],
-          },
-        ],
+
       },
     },
   },
