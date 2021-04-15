@@ -95,7 +95,7 @@ module.exports = config({
     },
 
     pwa: {
-      cacheHTML:false,
+          cacheHTML:false,
 	  cachePic:false,
 	  maxPicSize:1024,
 	  favicon: "/favicon.ico",
