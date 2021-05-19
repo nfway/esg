@@ -13,3 +13,5 @@ ESG越来越多地被提起，那么 ESG的应用有哪些？
 - [ESG作为沟通工具](ESG-communicate.md)
 
 - [ESG投资与价值](ESG-investment-and-social-value.md)
+
+- [ESG研究报告](ESG-research-reports.md)
