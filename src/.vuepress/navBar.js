@@ -2,10 +2,32 @@ module.exports = {
   zh: [           
             //格式一：直接跳转，'/'为不添加路由，跳转至首页
             { text: '首页', link: '/' }, 
-			{ text: 'ESG 介绍', link: '/about/ESG/' }, 
-			{ text: 'ESG 标准', link: '/criteria/ESG-Criteria/' }, 
-			{ text: 'ESG 应用', link: '/apply/ESG-rating/' }, 
-			{ text: 'ESG披露', link: '/how/ESG-guide/' }, 		
+			{ text: 'ESG介绍', 
+			  ariaLabel: '关于ESG的介绍',
+			  items: [
+					{ text: 'ESG是什么', link: '/about/ESG/' },
+					{ text: 'ESG发展史', link: '/about/ESG-history/'},
+					{ text: 'ESG投资史', link: '/about/ESG-investment-history/'}
+			  
+			  ]	
+			}, 
+			{ text: 'ESG标准', 
+			  ariaLabel:'ESG的标准有哪些',
+			  items: [
+					{ text: 'ESG标准',   link: '/criteria/ESG-Criteria/' },
+					{ text: 'ESG在中国', link: '/criteria/ESG-China/'},
+					{ text: '港交所ESG', link: '/criteria/hkex-ESG/'},
+					{ text: '政策更新',  link: '/criteria/ESG-update/'}
+			  ]		
+			}, 
+			{ text: 'ESG评级', 
+			  ariaLabel: '关于ESG的应用',
+			  items:[
+					{ text: 'ESG评级', link: '/apply/ESG-rating/'},
+					{ text: 'ESG投资', link: '/apply/ESG-investment/'}
+			  ]
+			}, 
+			{ text: '如何写ESG报告', link: '/how/ESG-guide/' }, 		
            			
             //格式二：添加下拉菜单，link指向的文件路径
             {
