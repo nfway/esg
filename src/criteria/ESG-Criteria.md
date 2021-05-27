@@ -28,6 +28,11 @@
 
 目前，GRI 已经成为全世界应用最广的可持续发展报告框架。
 
+- 2021年5月，GRI对行业标准草案开放公众意见，涵盖农业，水产养殖，渔业和煤炭。现已开始进行磋商，以收集对GRI部门计划下的两项拟议新标准的反馈，这些新标准将通过集中关注最重要的可持续性问题来提高部门内部的透明度。
+- 除了目前（2021年）正在最终确定的《石油和天然气行业标准》外，GRI全球可持续发展标准委员会（GSSB）还宣布了以下方面的征求意见稿：
+  - 在[**农业，水产养殖和渔业部门的标准**](https://www.globalreporting.org/standards/standards-development/sector-standard-project-for-agriculture-aquaculture-and-fishing/)，涵盖了生物多样性和自然生态系统的影响; 气候变化适应；动植物健康；食品安全与保障；经济包容性；和劳工标准。
+  - 一个[**煤炭行业标准**](https://www.globalreporting.org/standards/standards-development/sector-standard-project-for-coal/)，解决企业如何应对低碳转型，同时突出对当地社区的影响; 环境风险管理；付款透明度；和所有权的披露。
+
 ### ISO 260000
 
 ISO 26000是国际标准化组织(ISO)起草制定的社会责任指南(Guidance on Social Responsibility)的技术编号。

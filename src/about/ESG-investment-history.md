@@ -16,6 +16,7 @@
 
 ## 数据
 
+- 2021年，根据气候债券市场情报(Climate Bonds Market Intelligence)的数据，截至4月底，欧洲大陆的绿色债券发行量累计超过5000亿美元。这一可喜的消息是在国家和超国家政府加强努力的推动下，该地区出现了几项绿色金融发展。[欧洲在绿色金融上投资达到5000亿美元](https://www.climatebonds.net/2021/05/europe-reaches-500bn-green-investment-climate-bonds-market-intel-reports)：德国国内市场在2021年第一季度超过1000亿美元，达到1080亿美元。德国市场的规模仅次于法国的1370亿美元。荷兰以600亿美元排名第三，瑞典以470亿美元排名第四，西班牙以420亿美元排名第五。根据气候债券市场情报(Climate bonds Market Intelligence)的数据，今年欧洲已经发行了950亿美元的绿色债券。尽管近年来绿色金融取得了不可否认的进步，但全球绿色债务工具的发行仍需加快步伐，为向低碳经济的必要转型提供资金。1月份，气候债券预计2021年将是绿色债券发行量再创新高的一年，预计发行量将达到4500亿美元。
 - 2018年初，欧洲、美国、日本、加拿大、澳大利亚与新西兰五大发达市场的可持续投资资产规模已经突破30万亿美元大关，较2016年的水平上升34% （“Global Sustainable Investment Review (2012)", GSIA）
 - 根据全球可持续投资联盟（GSIA）最新报告，2018年使用正面清单筛选，负面清单筛选和原则筛选三种形式管理的**资产总规模达25.25万亿美元**，和哈佛大学肯尼迪研究中心2018年发布的报告所估计的**全球社会责任投资规模26万亿美元**接近，其中美国社会责任投资金额为12万亿美元，约占全美专业资产管理总额的25%。（“Money,Millennials and Human Rights — Sustaining ‘Sustainable Investing’”, June 2018, Working Paper No.69, Corporate Social Responsibility Initiative, Harvard Kennedy School）
 - 根据全球可持续投资联盟的报告，**2018年采取ESG整合策略的投资规模为17.5万亿美元** （“中国责任投资年度报告（2019）”，中国责任投资论坛）
