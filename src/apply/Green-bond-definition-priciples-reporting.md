@@ -152,7 +152,7 @@ Notably, the 2021 edition of the GBP identiﬁes key recommendations regarding G
 
 ### 主要指标
 
-#### Renewable Energy 可持续能源
+**Renewable Energy 可持续能源**
 
 - 温室气体减排
 - 所使用的可持续能源统计
@@ -170,7 +170,7 @@ a. Where CO2emissions ﬁgures are reported, the GHG accounting methodology and 
 
 b. Depending on their own GHG reporting requirements, some institutions may report Absolute (gross) GHG emissions from the project, alongside the reduced/avoided emissions (under indicator #1). Together with baseline emissions, Absolute (gross)emissions allow for the calculation of emissions reduced/avoided.
 
-#### Energy Efﬁciency 能源效率
+**Energy Efﬁciency 能源效率**
 
 - 节能统计
 - 减排统计
@@ -190,20 +190,20 @@ b. Where CO2emissions ﬁgures are reported, the GHG accounting methodology and 
 
 c. Depending on their own GHG reporting requirements, some institutions may report Absolute (gross) GHG emissions from the project, alongside the reduced/avoided emissions (under indicator #2). Together with baseline emissions, Absolute (gross)emissions allow for the calculation of emissions reduced/avoided.
 
-#### Sustainable Water and Wastewater Management 可持续水资源和废水管理
+**Sustainable Water and Wastewater Management 可持续水资源和废水管理**
 
 - 可持续水资源管理，及节水项目（提高水耗）
 - 废水管理
   - 减排
   - 回收利用
 
-#### Waste Management and Resource Efﬁciency 废弃物管理和效率
+**Waste Management and Resource Efﬁciency 废弃物管理和效率**
 
 - 废弃物减排项目及效率统计
 - 废弃回收利用
 - 废弃物处置
 
-#### Clean Transportation 清洁交通
+**Clean Transportation 清洁交通**
 
 - 公共交通（地铁，铁路，轻轨，单轨，电车，公交网络）项目的建筑，设备采购和技术升级；
 
@@ -215,7 +215,7 @@ c. Depending on their own GHG reporting requirements, some institutions may repo
 
 - 城市汽车和电动公共交通项目，例如电动汽车充电站。
 
-####Green Building 绿色建筑
+**Green Building 绿色建筑**
 
 *绿色建筑指南*
 
@@ -248,21 +248,21 @@ c. Depending on their own GHG reporting requirements, some institutions may repo
 - Waste Management 废弃物管理
 - Certiﬁcation Standard, if available 绿色建筑认证，如可能
 
-#### Biodiversity 生物多样性
+**Biodiversity 生物多样性**
 
 - Protected areas and Other Effective Area-based Conservation Measures 自然保护区和其他有效地區保育措施
   - 保护陆地生物
   - 保护海洋生物
 - 自然景区保护
 
-#### Climate Change Adaptation 适应气候变化
+**Climate Change Adaptation 适应气候变化**
 
 在温度、风、水资源、陆地相关的层面：
 
 - Reducing or avoiding weather-related damage
 - Reducing or avoiding weather-related disruption
 
-#### Circular Economy and/or Eco-Efﬁcient Projects 循环经济或生态效益项目
+**Circular Economy and/or Eco-Efﬁcient Projects 循环经济或生态效益项目**
 
 - Circular Design and Production Projects
   - Design, development, sustainable production and/or use of materials (including bio-based materials), components and products that are reusable, recyclable or certiﬁed compostable
