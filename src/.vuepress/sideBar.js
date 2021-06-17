@@ -37,7 +37,9 @@ module.exports = {
 						['/apply/ESG-communicate.md','作为沟通工具'],
 						['/apply/ESG-investment-and-social-value','ESG投资与价值'],
 						['/apply/ESG-research-reports','ESG研究报告'],
-						['/apply/MSCI-ESG-Rating-Methology-Chinese','MSCI 评级']
+						['/apply/MSCI-ESG-Rating-Methology-Chinese','MSCI 评级'],
+						['/apply/ESG-investor-need','投资者需要什么ESG信息'],
+						['/apply/Green-bond-definition-priciples-reporting','绿色债券指南']
                     ]
                 },
 				          ],

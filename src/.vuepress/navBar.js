@@ -24,7 +24,9 @@ module.exports = {
 			  ariaLabel: '关于ESG的应用',
 			  items:[
 					{ text: 'ESG评级', link: '/apply/ESG-rating/'},
-					{ text: 'ESG投资', link: '/apply/ESG-investment/'}
+					{ text: 'ESG投资', link: '/apply/ESG-investment/'},
+					{ text: '绿色债券', link: '/apply/Green-bond-definition-priciples-reporting/'},
+					{ text: '投资者需求', link: '/apply/ESG-investor-need/'}
 			  ]
 			}, 
 			{ text: '如何写ESG报告', link: '/how/ESG-guide/' }, 		
